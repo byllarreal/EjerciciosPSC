@@ -24,6 +24,7 @@ Algoritmo Ejercicios
 	Escribir("***** Ejercicios *****");
 	Escribir("1.Intercambiar valores de A y B");
 	Leer op;
+	//Agregue número de la opción  y nombre de la función  o si prefiere realize el ejercicio dentro de Segun
 	Segun op Hacer
 		1:
 			IntercambiarAB;	
