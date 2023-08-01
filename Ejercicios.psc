@@ -23,6 +23,7 @@ Algoritmo Ejercicios
 	//Agregar número y nombre del ejercicio al menu:
 	Escribir("***** Ejercicios *****");
 	Escribir("1.Intercambiar valores de A y B");
+	Escribir("Ingrese número de ejercicio: ");
 	Leer op;
 	//Agregue número de la opción  y nombre de la función  o si prefiere realize el ejercicio dentro de Segun
 	Segun op Hacer
